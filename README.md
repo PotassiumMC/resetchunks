@@ -8,7 +8,7 @@
 [![Latest Release](https://img.shields.io/github/v/release/PotassiumMC/resetchunks)](https://github.com/PotassiumMC/resetchunks/releases)
 [![CurseForge Download Count](https://cf.way2muchnoise.eu/full_resetchunks_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/resetchunks)
 
-resetchunks is a tiny fabric mod that re-adds the **/resetchunks** command, allowing you to regenerate one or more chunks.
+resetchunks is a tiny fabric mod that enables the **/resetchunks** command, allowing you to regenerate one or more chunks.
 
 For support, check out our [Discord](https://discord.gg/bXG8H6PVuS) or [IRC Channels](https://webchat.esper.net/?channels=potassium)!
 
