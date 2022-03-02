@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "resetchunks",
+  "version": "${version}",
+  "name": "resetchunks",
+  "description": "resetchunks is a tiny fabric mod that re-adds the /resetchunks command, allowing you to regenerate one or more chunks.\n",
+  "authors": [
+    "NoahvdAa"
+  ],
+  "contact": {
+    "homepage": "https://github.com/PotassiumMC/resetchunks",
+    "sources": "https://github.com/PotassiumMC/resetchunks",
+    "issues": "https://github.com/PotassiumMC/resetchunks/issues",
+    "discord": "https://discord.gg/bXG8H6PVuS",
+    "irc": "irc://irc.esper.net:6667/potassium"
+  },
+  "license": "LGPL-3.0-only",
+  "icon": "assets/resetchunks/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.potassiummc.resetchunks.ResetChunks"
+    ]
+  },
+  "mixins": [
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": ">=1.18",
+    "java": ">=17"
+  }
+}
