@@ -12,6 +12,8 @@
 
 resetchunks is a tiny fabric mod that enables the **/resetchunks** command, allowing you to regenerate one or more chunks.
 
+If you have encountered an issue, please create an issue on our [issue tracker](https://github.com/PotassiumMC/resetchunks/issues/new/choose).
+
 For support, check out our [Discord](https://discord.gg/bXG8H6PVuS) or [IRC Channels](https://webchat.esper.net/?channels=potassium)!
 
 ### Command usage
