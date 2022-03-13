@@ -3,7 +3,7 @@
   "id": "resetchunks",
   "version": "${version}",
   "name": "resetchunks",
-  "description": "resetchunks is a tiny fabric mod that enables the /resetchunks command, allowing you to regenerate one or more chunks.\n",
+  "description": "resetchunks is a tiny fabric mod that enables the /resetchunks command, allowing you to regenerate one or more chunks.",
   "authors": [
     "NoahvdAa"
   ],
