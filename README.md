@@ -3,7 +3,7 @@
 # resetchunks
 
 [![Discord Shield](https://discordapp.com/api/guilds/938463953644847205/widget.png?style=shield)](https://discord.gg/bXG8H6PVuS)
-[![Build Status](https://img.shields.io/github/workflow/status/PotassiumMC/resetchunks/build/master)](https://github.com/PotassiumMC/resetchunks/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/PotassiumMC/resetchunks/build.yml?branch=master)](https://github.com/PotassiumMC/resetchunks/actions)
 [![License](https://img.shields.io/github/license/PotassiumMC/resetchunks)](https://github.com/PotassiumMC/resetchunks/blob/master/LICENSE)
 [![Latest Release](https://img.shields.io/github/v/release/PotassiumMC/resetchunks)](https://github.com/PotassiumMC/resetchunks/releases)
 [![CurseForge Download Count](https://cf.way2muchnoise.eu/full_resetchunks_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/resetchunks)
